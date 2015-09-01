@@ -6,28 +6,28 @@ Through the navigation buttons on the left, and later on the right, one can view
 Viewable data:
 <h2>Brawlers</h2>
   Brawler win rate:  
-&nbsp;win count  / pick count  
+&nbsp;&nbsp;win count  / pick count  
   Brawler pick rate:  
-    pick count / total picks  
+&nbsp;&nbsp;pick count / total picks  
   Cuteness:  
-    from champs {  
-      1		Annie  ,  
-      96	Koggles,  
-      117	Lulu   ,  
-      99	Lux    ,  
-      267	Nami   ,  
-      17	Teemo  ,  
-      150	Gnar   ,  
-      37	Sona   ,  
-      32	Amumu  
+&nbsp;&nbsp;from champs {  
+      1		Annie  ,
+      96	Koggles,
+      117	Lulu   ,
+      99	Lux    ,
+      267	Nami   ,
+      17	Teemo  ,
+      150	Gnar   ,
+      37	Sona   ,
+      32	Amumu
     }:  
-      pick count / total picks  
+&nbsp;&nbsp;pick count / total picks  
   Popular for offense:  
-    
+&nbsp;&nbsp;
   Popular for defense:  
-    
+&nbsp;&nbsp;
   Item popularity:  
-    
+&nbsp;&nbsp;
 <h2>Champions</h2>
 <br />
 <br />
