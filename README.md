@@ -22,13 +22,13 @@ Cuteness:<br />
 37	Sona   ,
 32	Amumu
 }:<br />
-&nbsp;&nbsp;pick count / total picks<br />
+&nbsp;&nbsp;&nbsp;&nbsp;pick count / total picks<br />
 Popular for offense:<br />
-&nbsp;&nbsp;hi
+&nbsp;&nbsp;hi<br />
 Popular for defense:<br />
-&nbsp;&nbsp;hi
+&nbsp;&nbsp;hi<br />
 Item popularity:<br />
-&nbsp;&nbsp;hi
+&nbsp;&nbsp;hi<br />
 </blockquote>
 <h2>Champions</h2>
 <br />
