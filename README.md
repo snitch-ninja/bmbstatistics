@@ -6,11 +6,11 @@ Through the navigation buttons on the left, and later on the right, one can view
 Viewable data:
 <h2>Brawlers</h2>
 <blockquote>
-Brawler win rate:  
-&nbsp;&nbsp;win count  / pick count  
-Brawler pick rate:  
-&nbsp;&nbsp;pick count / total picks  
-Cuteness:  
+Brawler win rate:<br />
+&nbsp;&nbsp;win count  / pick count<br />
+Brawler pick rate:<br />
+&nbsp;&nbsp;pick count / total picks<br />
+Cuteness:<br />
 &nbsp;&nbsp;from champs {
 1		Annie  ,
 96	Koggles,
@@ -21,14 +21,14 @@ Cuteness:
 150	Gnar   ,
 37	Sona   ,
 32	Amumu
-}:  
-&nbsp;&nbsp;pick count / total picks  
-Popular for offense:  
-&nbsp;&nbsp;
-Popular for defense:  
-&nbsp;&nbsp;
-Item popularity:  
-&nbsp;&nbsp;
+}:<br />
+&nbsp;&nbsp;pick count / total picks<br />
+Popular for offense:<br />
+&nbsp;&nbsp;hi
+Popular for defense:<br />
+&nbsp;&nbsp;hi
+Item popularity:<br />
+&nbsp;&nbsp;hi
 </blockquote>
 <h2>Champions</h2>
 <br />
