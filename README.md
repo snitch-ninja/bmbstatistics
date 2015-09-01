@@ -5,14 +5,13 @@ Through the navigation buttons on the left, and later on the right, one can view
 <br />
 Viewable data:
 <h2>Brawlers</h2>
-<code>
-  Brawler win rate:\n
+  Brawler win rate:
     win count  / pick count
   Brawler pick rate:
     pick count / total picks
   Cuteness:
     from champs {
-      1	  Annie  ,
+      1		Annie  ,
       96	Koggles,
       117	Lulu   ,
       99	Lux    ,
@@ -29,11 +28,7 @@ Viewable data:
     
   Item popularity:
     
-</code>
 <h2>Champions</h2>
-<code>
-
-</code>
 <br />
 <br />
 <a href="https://github.com/snitch-ninja/RIOT_API_DATA_PARSER">C Program</a>
