@@ -5,7 +5,7 @@ Through the navigation buttons on the left, and later on the right, one can view
 <br />
 Viewable data:
 <h2>Brawlers</h2>
-<code>
+<blockquote>
 Brawler win rate:  
 &nbsp;&nbsp;win count  / pick count  
 Brawler pick rate:  
@@ -29,6 +29,7 @@ Popular for defense:
 &nbsp;&nbsp;
 Item popularity:  
 &nbsp;&nbsp;
+</blockquote>
 <h2>Champions</h2>
 <br />
 <br />
