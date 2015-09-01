@@ -7,7 +7,7 @@ Viewable data:
 <h2>Brawlers</h2>
 <blockquote>
   Brawler win rate:<br />
-    win count  / pick count<br />
+	win count  / pick count<br />
   Brawler pick rate:<br />
     pick count / total picks<br />
   Cuteness:<br />
