@@ -6,7 +6,7 @@ Through the navigation buttons on the left, and later on the right, one can view
 Viewable data:
 <h2>Brawlers</h2>
   Brawler win rate:  
-	win count  / pick count  
+&nbsp;win count  / pick count  
   Brawler pick rate:  
     pick count / total picks  
   Cuteness:  
